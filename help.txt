@@ -1,0 +1,2 @@
+命令行进入目录，python alien_invasion.py进入游戏
+空格射击，左右键移动，q退出游戏
